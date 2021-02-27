@@ -1,4 +1,4 @@
-# :wave: Hey, I am Aditya 👨‍💻
+# :wave: Hey, I am Aditya
 
 I am a 21 year old Android Developer living in Delhi, India. I work at https://github.com/navana-tech as an Android Engineer and we're making technology accessible to low literate people. I also co-maintain https://github.com/android-password-store/ which I user personally on a daily basis. I've recently started blogging at [skrilltrax.dev](https://skrilltrax.dev) to share all the knowledge that I've gained over the past few years. 
 
